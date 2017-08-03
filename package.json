@@ -1,9 +1,9 @@
 {
-  "name": "萬事屋",
+  "name": "KnowBon",
   "version": "0.0.0",
   "private": true,
   "author": "shubon",
-  "description": "解決天下事",
+  "description": "萬事屋",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
